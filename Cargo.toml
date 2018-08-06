@@ -1,0 +1,8 @@
+[package]
+name = "learn"
+version = "0.1.0"
+authors = ["MrScriptX <dan.liebault@viacesi.fr>"]
+
+[dependencies]
+
+rand = "0.3.14"
